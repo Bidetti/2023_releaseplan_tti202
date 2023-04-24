@@ -12,3 +12,13 @@ Criação de um release plan para uma funcionalidade de log in de um site de age
             - Estimativa: 1 Sprint
             - Prioridade: Alta
             - Points: 5 story points
+### User Story (SUB)
+    - Como usuário, desejo que a minha conta esteja segura por meio de OAuth Authenticator (Google Authenticator)
+        - Tarefas Técnicas:
+            - Implementar a API do Google Authenticator para gerar um QRCode e Código válidos. (5 Story Points)
+            - Apresentar o QRCode e Código. (1 Story Points)
+            - Validação dos dados. (1 Story Points)
+        - Medição de Prioridade:
+            - Estimativa 2 Sprints
+            - Prioridade: Média
+            - Points: 7 Story points
